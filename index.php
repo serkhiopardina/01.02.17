@@ -1,6 +1,6 @@
 <?php
 	// put your code here
-	?>
+?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -8,7 +8,7 @@
         <title></title>
     </head>
     <body>
-	<form method="post">
+	<form method="post" action="authoresetion.php">
 	    <label>Login:
 		<input type="text" name="username"/>
 	    </label>
